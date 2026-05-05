@@ -3,6 +3,8 @@
 
 **Version:** v1  **Author:** Martin Valent, National Museum Prague — Department of Paleontology  **Project:** DKRVO 2024–2028/2.I.c (NM 00023272)
 
+Valent, M. (2026). SciNexus - Local AI environment for natural science work (1.0). Zenodo. https://doi.org/10.5281/zenodo.20035531
+
 Streamlit application for scientific document processing using local LLM models (LM Studio / llama.cpp). Designed primarily for paleontological research—specifically Hyolitha taxonomy—but applicable to general scientific documents.
 
 ### Features
