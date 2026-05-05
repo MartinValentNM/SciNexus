@@ -1,0 +1,18 @@
+# SciNexus / LM Studio Utility Pro
+# Generováno pro scinexus.py + presence.py
+
+# ── Jádro ─────────────────────────────────────────────────────────────────────
+streamlit>=1.35.0
+requests>=2.31.0
+pandas>=2.0.0
+
+# ── Zpracování dokumentů ──────────────────────────────────────────────────────
+python-docx>=1.1.0          # čtení a tvorba .docx souborů
+PyPDF2>=3.0.0               # čtení PDF (lazy import)
+beautifulsoup4>=4.12.0      # parsování HTML/XML (BS4_AVAILABLE)
+
+# ── Validace dat ──────────────────────────────────────────────────────────────
+pydantic>=2.0.0             # validace extrahovaných dat (BaseModel, field_validator)
+
+# ── Volitelné — doporučené ────────────────────────────────────────────────────
+psutil>=5.9.0               # sledování procesů (OFF tlačítko, ukončení CMD okna)
