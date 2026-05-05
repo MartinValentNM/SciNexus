@@ -56,8 +56,8 @@ This project follows the [Contributor Covenant](https://www.contributor-covenant
 ```bash
 # Click the "Fork" button on GitHub
 # Then clone your fork:
-git clone https://github.com/YOUR_USERNAME/lm-studio-utility-pro.git
-cd lm-studio-utility-pro
+git clone https://github.com/MartinValentNM/SciNexus.git
+cd SciNexus
 ```
 
 - **Create a branch**
@@ -71,7 +71,7 @@ git checkout -b fix/bug-description
 - **Set up upstream**
 
 ```bash
-git remote add upstream https://github.com/martin-valent/lm-studio-utility-pro.git
+git remote add upstream https://github.com/MartinValentNM/SciNexus.git
 ```
 
 ## Reporting Bugs
@@ -229,8 +229,8 @@ git push origin feature/your-feature-name
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/lm-studio-utility-pro.git
-cd lm-studio-utility-pro
+git clone https://github.com/MartinValentNM/SciNexus.git
+cd SciNexus
 
 # Create a virtual environment
 python -m venv venv
@@ -615,8 +615,8 @@ By contributing to this project, you agree that your code will be released under
 
 ## Contact
 
-- **GitHub Issues**: [https://github.com/martin-valent/lm-studio-utility-pro/issues](https://github.com/martin-valent/lm-studio-utility-pro/issues)
-- **Discussions**: [https://github.com/martin-valent/lm-studio-utility-pro/discussions](https://github.com/martin-valent/lm-studio-utility-pro/discussions)
+- **GitHub Issues**: [https://github.com/martin-valent/SciNexus/issues](https://github.com/martin-valent/SciNexus/issues)
+- **Discussions**: [https://github.com/martin-valent/SciNexus/discussions](https://github.com/martin-valent/SciNexus/discussions)
 - **Email**: martin.valent@nm.cz
 
 ## Acknowledgments
